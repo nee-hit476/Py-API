@@ -6,14 +6,16 @@ Will implement DB next.
 ---
 
 ## 🏗 Project Structure
+
+```bash
 books_api/
-├── app.py # Main entry point of the app
+├── app.py                 # Main entry point of the app
 ├── models/
-│ └── book.py # Book model (data & logic)
+│   └── book.py            # Book model (data & logic)
 ├── controllers/
-│ └── book_controller.py # Controller (logic handling)
+│   └── book_controller.py # Controller (logic handling)
 └── routes/
-└── book_routes.py # Route definitions (URL endpoints)
+    └── book_routes.py     # Route definitions (URL endpoints)
 
 ### API Endpoints
 | Method | Endpoint      | Description         |
