@@ -1,4 +1,4 @@
-# 📚 Flask Books API (MVC Pattern)
+# Flask Books API (MVC Pattern)
 
 A simple RESTful Books API built with **Flask** using the **MVC (Model-View-Controller)** architecture.  
 CRUD operations (Create, Read, Update, Delete) on an in-memory book list.
@@ -16,7 +16,7 @@ books_api/
 │   └── book_controller.py # Controller (logic handling)
 └── routes/
     └── book_routes.py     # Route definitions (URL endpoints)
-
+```
 ### API Endpoints
 | Method | Endpoint      | Description         |
 | ------ | ------------- | ------------------- |
