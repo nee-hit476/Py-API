@@ -31,7 +31,7 @@ books_api/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/flask-books-api.git
+git clone https://github.com/nee-hit476/Py-API.git
 cd flask-books-api
 ```
 
